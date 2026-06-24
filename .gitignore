@@ -1,0 +1,70 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+.env.local
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Unit test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+*.xml
+
+# ========================
+# Application Data
+# ========================
+
+# Downloaded videos (do not commit)
+downloads/
+
+# Log files
+logs/
+
+# User-specific data files (history & settings are local)
+data/history.json
+data/settings.json
+
+# ========================
+# IDE & Editor
+# ========================
+.vscode/
+.idea/
+*.suo
+*.user
+*.sublime-project
+*.sublime-workspace
+
+# ========================
+# OS Generated Files
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# AG Kit (local AI config - do not push to remote)
+# ========================
+# Uncomment the line below if you do NOT want to share .agents with your team
+.agents/
+docs
