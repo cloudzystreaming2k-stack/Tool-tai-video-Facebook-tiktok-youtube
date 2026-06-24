@@ -2,8 +2,8 @@
 
 **Social Media Downloader** là một ứng dụng Desktop mạnh mẽ, trực quan và hoàn toàn miễn phí được xây dựng bằng ngôn ngữ **Python** kết hợp với giao diện đồ họa **PyQt6**. Phần mềm cho phép người dùng dễ dàng tải xuống các video và đoạn âm thanh chất lượng cao từ nhiều nền tảng mạng xã hội lớn hiện nay mà không cần trải qua các bước cài đặt phần mềm phức tạp hay lo lắng về quảng cáo làm phiền.
 
-🔗 **[👉 NHẤP VÀO ĐÂY ĐỂ TẢI VÀ CHẠY ỨNG DỤNG NGAY (.EXE) 👈](dist/SocialMediaDownloader.exe)**  
-*(Lưu ý: Chỉ cần tải file `.exe` duy nhất này về, nhấp đúp chuột là phần mềm sẽ mở lên sử dụng được ngay lập tức mà không cần cài đặt mã nguồn hay bất kỳ thư viện hỗ trợ nào!)*
+🔗 **[👉 NHẤP VÀO ĐÂY ĐỂ TẢI ỨNG DỤNG NGAY (.EXE) 👈](https://github.com/cloudzystreaming2k-stack/Tool-t-i-video-Facebook-tiktok-youtube/releases/latest/download/SocialMediaDownloader.exe)**  
+*(Lưu ý: Tải file `.exe` duy nhất này về, nhấp đúp chuột là phần mềm sẽ mở lên sử dụng được ngay lập tức mà không cần cài đặt mã nguồn hay bất kỳ thư viện hỗ trợ nào!)*
 
 ---
 
