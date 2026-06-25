@@ -90,6 +90,22 @@ Phần này dành riêng cho những ai muốn đọc hiểu mã nguồn, nâng 
 
 ---
 
+### 📸 Ảnh chụp màn hình
+
+![Giao diện chính](assets/images/1.png)
+
+*Hình 1: Giao diện khi mở chương trình*
+
+![Danh sách tải](assets/images/2.png)
+
+*Hình 2: Danh sách tải*
+
+![Cấu hình thư mục download video](assets/images/3.png)
+
+*Hình 3: Cấu hình thư mục download video*
+
+---
+
 ## 📦 Hướng dẫn tự Build ra file .exe mới
 
 Nếu bạn có nâng cấp mã nguồn (ví dụ: bổ sung tính năng tải Instagram) và muốn tự đóng gói lại phần mềm thành 1 tệp `.exe` siêu xịn để chia sẻ:
